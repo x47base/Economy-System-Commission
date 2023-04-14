@@ -29,6 +29,7 @@
     - [x] Start Robbery
     - [x] Generate Unique Drop Id's
     - [x] Drop Gold Bars & Cash Stacks
+    - [ ] Drop Pickup Notifications
     - [x] Plant C4
     - [ ] 60s Delay Gas Deployment
     - [x] Bank Robbery Timeout
