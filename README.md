@@ -22,6 +22,6 @@
     - [ ] Bank Robbery Timeout
   - [ ] Security
     - [ ] Unique Drop Id's
-    - [*] Anti Drop Dupe
+    - [ ] Anti Drop Dupe
     
 
