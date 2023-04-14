@@ -2,17 +2,29 @@
 -------------------------
 - [ ] **Economy System**
   - [ ] Base System
-    - [ ] Generation
-    - [ ] Checking
+    - [ ] Update Player Stats
+    - [ ] Create Leaderstats
+    - [ ] Send Notification Remote
+    - [ ] Player Added Handler
+    - [ ] Player Leaving Handler
+    - [ ] Base Initialization
+    - [ ] Get Profile
+    - [ ] Save Profile
+    - [ ] Get Data
+    - [ ] Set Data
+    - [ ] Update Data
+    - [ ] Increment Data
   - [ ] Vehicle System 
     - [ ] Buy Vehicle
     - [ ] Sell Vehicle
     - [ ] Grant Vehicle
     - [ ] Revoke Vehicle
+    - [ ] Has Player Vehicle
   - [ ] Tool System
     - [ ] Purchase Tool
     - [ ] Grant Tool
     - [ ] Revoke Tool
+    - [ ] Has Player Tool
   - [ ] Bank Robbery System
     - [ ] Start Robbery
     - [ ] Generate Unique Drop Id's
